@@ -8,4 +8,4 @@ module.exports = {
     ]
 };
 
-// o Babel transpila códigos para que o navegador entenda de uma forma convencional
+/* o Babel transpila códigos para que o navegador entenda de uma forma convencional */
